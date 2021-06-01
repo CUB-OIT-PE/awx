@@ -57,7 +57,7 @@ psutil==5.7.0    # same as AWX requirement
 pyvmomi==6.7.3
 # WinRM
 backports.ssl-match-hostname==3.5.0.1
-pywinrm[kerberos]==0.3.0
+pywinrm[kerberos]==0.4.2
 requests
 requests-credssp==1.0.2   # For windows authentication awx/issues/1144
 # OpenStack
